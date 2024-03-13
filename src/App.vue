@@ -3,7 +3,6 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="counter">Counter</router-link> |
-      <router-link to="counterDouw">CounterDouw</router-link> |
     </nav>
     <router-view/>
   </div>

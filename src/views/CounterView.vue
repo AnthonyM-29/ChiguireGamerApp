@@ -50,7 +50,7 @@ const storePrice = usePrecioXHora()
 }
 
 .letra {
-  margin: -60px;
+  margin: -70px;
   display: inline;
   align-items: center;
   width: 400px;
